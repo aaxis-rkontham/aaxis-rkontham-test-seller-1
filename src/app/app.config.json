@@ -1,0 +1,13 @@
+{
+  "appname": "aaxis-rkontham-test-seller-1",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader DevCenterWebHookAdmin",
+  "clientid": "CB5E142F-0C15-4947-B409-2432B07F8F7B",
+  "buyerid": "newbuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
